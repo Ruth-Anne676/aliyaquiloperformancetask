@@ -9,16 +9,16 @@
 <table border= "1" background= "Children.jpg">
 <tr>
 <td> <font face= "Arial" color="white" size= "12"> 
-<i> Childrenís rights are human rights. <br>
+<i> Children‚Äôs rights are human rights. <br>
 Children must be treated with equality,<br>
 respect and dignity, not because they are <br>
-ìthe futureî or the ìadults of tomorrowî, <br>
+‚Äúthe future‚Äù or the ‚Äúadults of tomorrow‚Äù, <br>
 but because they are human beings <br>
 today. All humans are born inherent with <br>
 fundamental freedoms and rights. <br> <br>
 
 Children must enjoy the same human <br>
-rights as everybody elseófrom the right <br>
+rights as everybody else‚Äîfrom the right <br>
 to freedom of expression to the right to <br>
 privacy. This means all human rights laws <br>
 apply equally to children and adults. </i> </font> </table> </td>
@@ -38,7 +38,7 @@ that one considers possible. <br> <br>
 The theological virtue defined as the <br>
 desire and search for a future good, <br>
 difficult but not impossible to attain <br>
-with Godís help. </i> </b> </font> </table> <td>
+with God‚Äôs help. </i> </b> </font> </table> <td>
 </tr>
 
 </body>
